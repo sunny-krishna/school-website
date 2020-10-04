@@ -3,7 +3,7 @@
 
 ## Introduction
 
-A simple school respondive website designed using HTML,CSS & JAVASCRIPT.The client is responsible for maintaining the content; adding new content and changing elements of the visual design, The visitor to the site cannot make these changes but accesses the site to read the content. It is simple and efficient responsive site which can be accessed everywhere.
+A simple school responsive website designed using HTML,CSS & JAVASCRIPT.The client is responsible for maintaining the content; adding new content and changing elements of the visual design, The visitor to the site cannot make these changes but accesses the site to read the content. It is simple and efficient responsive site which can be accessed everywhere.
 
 ## <b>Technologies used:</b>
 
@@ -24,7 +24,7 @@ A simple school respondive website designed using HTML,CSS & JAVASCRIPT.The clie
 
 [HTML Reference link-2](https://developer.mozilla.org/en-US/docs/Web/HTML "HTML")
 
-## CSS Refrence links
+## CSS Reference links
 
 [CSS Reference link-1](https://www.w3schools.com/w3css/defaulT.asp " CSS")
 

@@ -1,0 +1,46 @@
+.header h1
+{
+    margin: 20px auto;
+    text-align: center;
+    font-size: 54px;
+    color: rgb(243, 93, 93);
+
+}
+.needs-validation
+{
+margin: 10px 20px;
+}
+.head
+{
+    width: 80%;
+    height: 100px;
+    margin: auto auto;
+}
+.logo
+{
+    width:140px;
+    height: 100px;
+
+}
+.logo img
+{
+    max-height: 100%;
+    max-width: 100%;
+}
+.head
+{
+    display: flex;
+}
+.text
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@media only screen and(max-width:568px)
+{
+    .header,.needs-validation,.form-row
+    {
+        width: 100%;
+    }
+}
